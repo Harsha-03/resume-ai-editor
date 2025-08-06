@@ -700,12 +700,10 @@ st.markdown("---")
 st.subheader("Next Steps (when you’re ready)")
 st.markdown(
     """
-- 🔐 **Auth & Storage**: Hook up Firebase auth and tie sessions to user IDs.
-- 🧠 **Memory**: Save preferred tones/roles and offer one-click variants.
-- 📎 **Importers**: Parse LinkedIn / Indeed job URLs automatically.
-- 📤 **Exporters**: Generate PDF; style templates with `docxtpl` or `reportlab`.
-- 📈 **Scoring**: Weighted ATS scoring (hard vs soft skills, required vs optional).
-- 🧪 **Tests**: Unit tests for parsers and prompt guards.
+---
+👨‍💻 Built with: [Streamlit](https://streamlit.io), [OpenAI API](https://platform.openai.com), [Firebase](https://firebase.google.com)  
+📁 Project: [resume-ai-editor](https://github.com/Harsha-03/resume-ai-editor)  
+💬 Feedback & collaboration welcome! → harshaasapu.b@gmail.com
 """
 )
 
