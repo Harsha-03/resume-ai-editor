@@ -696,8 +696,7 @@ with st.expander("🕒 Recent History (last 10)"):
         st.info(f"(History unavailable: {e})")
 
 # ---------- Footer ----------
-st.markdown("---")
-st.subheader("Next Steps (when you’re ready)")
+
 st.markdown(
     """
 ---
