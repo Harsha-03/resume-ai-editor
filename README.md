@@ -1,4 +1,4 @@
-# Resume Editor Automation (AI) — MVP
+# Resume Editor Automation (AI)
 
 A minimal, fast-to-run Streamlit app that:
 - Parses your resume (PDF/DOCX/TXT)
